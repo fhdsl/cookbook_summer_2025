@@ -1,13 +1,17 @@
-Tang Pie
+## Tang Pie
+
 This tang pie is perfect for summer gatherings and only takes minutes to put together.
 
 By Nicole McLaughlin
-Prep Time: 5 mins
-Chill Time: 1 hr
-Total Time: 1 hr 5 mins
-Servings: 8
-Yield: 1 9-inch pie
-Ingredients
+
+- Prep Time: 5 mins
+- Chill Time: 1 hr
+- Total Time: 1 hr 5 mins
+- Servings: 8
+- Yield: 1 9-inch pie
+
+## Ingredients
+
 1/2 cup orange-flavored drink mix (e.g. Tang)
 
 1 (14 ounce) can sweetened condensed milk
